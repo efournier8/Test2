@@ -2,6 +2,7 @@ eric fournier
 testing
 vvvvvvvvvvvv
 nnnnnnnn
+le camion est bleu
 bbbbbbbbbbbb
 mmmmmmmmmmmm
 bonjour le monde
